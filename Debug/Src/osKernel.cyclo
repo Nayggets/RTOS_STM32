@@ -1,0 +1,14 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+core_cm4.h:1816:22:__NVIC_SetPriority	2
+osKernel.c:40:6:osKernelStackInit	1
+osKernel.c:67:9:osKernelAddThread	1
+osKernel.c:95:6:osKernelInit	1
+osKernel.c:100:6:osKernelLaunch	1
+osKernel.c:120:29:SysTick_Handler	1
+osKernel.c:156:6:osSchedulerLaunch	1
+osKernel.c:195:6:osThreadYield	1
+osKernel.c:205:6:osSchedulerRoundRobin	2
+osKernel.c:217:6:tim2_1hz_interrupt_init	1
+osKernel.c:236:6:osSemaphoreInit	1
+osKernel.c:242:6:osSemaphoreSet	1
+osKernel.c:249:6:osSemaphoreWait	2

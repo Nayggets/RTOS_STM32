@@ -1,0 +1,4 @@
+timebase.c:18:6:delay	3
+timebase.c:30:6:tick_increment	1
+timebase.c:35:10:get_tick	1
+timebase.c:43:6:timebase_init	1
